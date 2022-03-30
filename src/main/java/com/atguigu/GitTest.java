@@ -18,6 +18,8 @@ public class GitTest {
         System.out.println("push test");
         
         System.out.println("在github上修改项目，需要拉取到本地库");
-        System.out.println("adfscfsedwedewrew");
+        System.out.println("使用SSH协议 拉取代码");
+        
+        
     }
 }
